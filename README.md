@@ -4,10 +4,10 @@
 CodeBox is a web-based application designed to help developers store, organize, and manage their code snippets efficiently.
 
 ## 🔧 Technologies Used  
-**Framework:** Laravel
-**Frontend:** Vue.JS
-**Backend:** PHP  
-**Database:** SQLite
+**Framework:** Laravel<br>
+**Frontend:** Vue.js<br>
+**Backend:** PHP<br>
+**Database:** SQLite<br>
 
 ## 🚀 Features  
 **✅ User authentication (Login/Register)**  
